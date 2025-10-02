@@ -1,11 +1,6 @@
 # Dashboard-Vulnerabilidades
 
-
 ![Gravando 2025-10-02 104115](https://github.com/user-attachments/assets/14fe9719-b7e6-4ed7-bab7-6466b3d6765c)
-
-
-![gif dashboard](https://github.com/user-attachments/assets/f9eb898c-71c4-4a3d-ac2f-417701f7be7e)
-
     
 🛡️ Dashboard de Análise de Vulnerabilidades
 Este projeto é um painel de visualização de dados interativo desenvolvido no âmbito da minha Residência em Tecnologia (cunho acadêmico). O objetivo é transformar grandes volumes de dados de segurança (relatórios de scans de vulnerabilidade) em informações claras e acionáveis para a tomada de decisões estratégicas em Segurança da Informação.
